@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🤗 I’m a growing non-computer professional programming enthusiast.
+- 🌱 I’m currently a front-end programmer, but I am also interested in python.
+- 🔭 I will always keep my love of programming.
+
 <!--
 **vaesonshu/vaesonshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
